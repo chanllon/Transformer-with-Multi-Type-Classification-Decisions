@@ -1,0 +1,2 @@
+实验操作系统为Windows 10 64位操作系统，内存为16GB ，CPU为 Intel i5-9300h 2.4GHz，GPU为NVIDIA GTX1650 4GB。
+其中编译语言为python3.8，实验框架为Pytorch 1.12.0,编译软件为PyCharm 2021.1 (Professional Edition)

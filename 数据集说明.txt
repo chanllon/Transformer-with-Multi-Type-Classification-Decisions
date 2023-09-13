@@ -1,0 +1,14 @@
+数据集存放与totaldata目录下
+其中carhack目录为训练模型所用源数据：
+dos_dataset.csv,fuzzy,gear,normal_run,RPM为原始数据集
+totalid_data.csv为预处理后的数据集，为td，tp模型训练所用
+newtotalid_data.csv为PTD模型训练所用的预处理后的数据集
+train_data,val_data,test_data分别对应训练，验证，测试数据集。
+data1目录下为TD,TP模型训练测试验证划分后的数据集
+源数据链接：
+https://ocslab.hksecurity.net/Datasets/car-hacking-dataset
+
+其中B-can，M-CAN Intrusion dataset目录下为B-can，M-can数据集，命名规则与上述相同
+源数据链接：
+https://ocslab.hksecurity.net/Datasets/m-can-intrusion-dataset
+https://ocslab.hksecurity.net/Datasets/b-can-intrusion-dataset
