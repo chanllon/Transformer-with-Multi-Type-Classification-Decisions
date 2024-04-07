@@ -1,11 +1,13 @@
-# [Transformer Model with Multi-Type Classification Decisions for Intrusion Attack Detection of Track Traffic and Vehicle]([https://example.com](https://ieeexplore.ieee.org/abstract/document/10447002))[![DOI](https://img.shields.io/badge/DOI-10.1109/ICASSP48485.2024.10447002-blue)](https://doi.org/10.1109/ICASSP48485.2024.10447002)
+# [Transformer Model with Multi-Type Classification Decisions for Intrusion Attack Detection of Track Traffic and Vehicle]([https://example.com](https://ieeexplore.ieee.org/abstract/document/10447002))
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109/ICASSP48485.2024.10447002-blue)](https://doi.org/10.1109/ICASSP48485.2024.10447002)
 
 
 
 ![PTIDS Model Architecture](PTIDS_Model_Architecture.png)
 
 
-This is the official implementation for our paper **Transformer Model with Multi-Type Classification Decisions for Intrusion Attack Detection of Track Traffic and Vehicle**, accepted by **ICASSP'24**. The **PTIDS model** presented in this paper consists of two main components: a **data preprocessing module** and an **intrusion detection module**. The **preprocessing module** utilizes the **PCA decision tree algorithm** to extract relevant feature data, while the **intrusion detection module** integrates **Transformer's encoder layer** with a **DNN neural network**. Figure illustrates the structural configuration of the **PTIDS model**.
+This is the official implementation for our paper **Transformer Model with Multi-Type Classification Decisions for Intrusion Attack Detection of Track Traffic and Vehicle**, accepted by **ICASSP'24**. The **PTIDS model** presented in this paper consists of two main components: a **data preprocessing module** and an **intrusion detection module**. The **preprocessing module** utilizes the **PCA decision tree algorithm** to extract relevant feature data, while the **intrusion detection module** integrates **Transformer's encoder layer** with a **DNN neural network**. 
 
 
 
