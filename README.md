@@ -3,10 +3,10 @@
 
 ## Drawing
 
-![PTIDS Model Architecture](png/PTIDS_Model_Architecture.png)
+![PTIDS Model Architecture](PTIDS Model Architecture.png)
 
 
-This is the official implementation for our paper KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation, accepted by CIKM'23.
+This is the official implementation for our paper Transformer Model with Multi-Type Classification Decisions for Intrusion Attack Detection of Track Traffic and Vehicle, accepted by ICASSP'24. The PTIDS model presented in this paper consists of two main components: a data preprocessing module and an intrusion detection module. The preprocessing module utilizes the PCA decision tree algorithm to extract relevant feature data, while the intrusion detection module integrates Transformer's encoder layer with a DNN neural network. Figure illustrates the structural configuration of the PTIDS model.
 
 ## Requirements
 
