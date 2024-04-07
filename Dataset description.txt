@@ -1,0 +1,15 @@
+The datasets are stored in the `totaldata` directory. The `carhack` directory contains the source data used for training models:
+
+- `dos_dataset.csv`, `fuzzy`, `gear`, `normal_run`, and `RPM` are the original datasets.
+- `totalid_data.csv` is the preprocessed dataset used for training the `td` and `tp` models.
+- `newtotalid_data.csv` is the preprocessed dataset used for training the `PTD` model.
+- `train_data`, `val_data`, and `test_data` correspond to the training, validation, and test datasets, respectively.
+
+Under the `data1` directory are datasets split for training, testing, and validation after training TD and TP models.
+
+The B-can and M-CAN Intrusion datasets are located in their respective directories, following the same naming conventions as above.
+
+Links to the source data:
+- [Car Hacking Dataset](https://ocslab.hksecurity.net/Datasets/car-hacking-dataset)
+- [B-CAN Intrusion Dataset](https://ocslab.hksecurity.net/Datasets/b-can-intrusion-dataset)
+- [M-CAN Intrusion Dataset](https://ocslab.hksecurity.net/Datasets/m-can-intrusion-dataset)
