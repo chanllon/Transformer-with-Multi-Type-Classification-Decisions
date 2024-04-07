@@ -3,7 +3,7 @@
 
 ## Drawing
 
-![PTIDS Model Architecture](images/PTIDS_Model_Architecture.png)
+![PTIDS Model Architecture](png/PTIDS_Model_Architecture.png)
 
 
 This is the official implementation for our paper KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation, accepted by CIKM'23.
