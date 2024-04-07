@@ -35,9 +35,6 @@ Links to the source data:
 - [B-CAN Intrusion Dataset](https://ocslab.hksecurity.net/Datasets/b-can-intrusion-dataset)
 - [M-CAN Intrusion Dataset](https://ocslab.hksecurity.net/Datasets/m-can-intrusion-dataset)
 
-Preprocess the dataset using pyKT to obtain the student's mastery level of knowledge concepts (MLKC), the probability of knowledge concepts appearing in the next exercise (PKC), and the forgetting rate of knowledge concepts (FRKC).
-
-We provide an example of a CSV file obtained after pyKT processing using the Algebra 2005 dataset (top 10 rows), located in `KG4Ex/pyKT_example/Algebra2005_head_10.csv`.
 
 ## Project Structure
 
